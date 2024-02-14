@@ -1,0 +1,1 @@
+module.exports.api_url = "https://pf1q7jrbq2.execute-api.us-west-2.amazonaws.com/Prod"
